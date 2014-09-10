@@ -1,0 +1,6 @@
+oauth_access_token: #Your Access Token Here
+oauth_access_token_secret: #Your Access Token Secret Here
+consumer_key: #Your Consumer Key Here
+consumer_secret: #Your Consumer Secret Here
+
+#more config on the way?
